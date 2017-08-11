@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Gems
+  - Goal1
+  - Goal2
+  - Goal3
+  - Goal4
+  - Goal5
+  - Goal6
+  - Goal7
+  - Goal8
+  - Goal9
+  - Goal10
+  - Goal11
+  - Goal12
+  - Goal13
+  - Goal14
+  - Goal15
+  - Goal16
+  - Goal17
+  - Goal18
+  - Goal19
+  - Goal20
+  - Goal21
+  - Goal22
+  - Goal23
+  - Goal
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

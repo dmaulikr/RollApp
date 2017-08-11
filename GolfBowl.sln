@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{5B30735E-9D61-23CA-96F3-DC954E5B8B46}") = "GolfBowl", "Assembly-CSharp-firstpass.csproj", "{A9FB8C8A-3958-BCF4-2DCF-AAA5199F5261}"
+EndProject
+Project("{5B30735E-9D61-23CA-96F3-DC954E5B8B46}") = "GolfBowl", "Assembly-CSharp.csproj", "{E0C137F7-F70B-56D6-EC52-F82F59EB1C85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9FB8C8A-3958-BCF4-2DCF-AAA5199F5261}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9FB8C8A-3958-BCF4-2DCF-AAA5199F5261}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9FB8C8A-3958-BCF4-2DCF-AAA5199F5261}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9FB8C8A-3958-BCF4-2DCF-AAA5199F5261}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0C137F7-F70B-56D6-EC52-F82F59EB1C85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0C137F7-F70B-56D6-EC52-F82F59EB1C85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0C137F7-F70B-56D6-EC52-F82F59EB1C85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0C137F7-F70B-56D6-EC52-F82F59EB1C85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
