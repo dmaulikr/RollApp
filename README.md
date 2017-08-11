@@ -1,6 +1,6 @@
 # Unity3D Roll Application
 
-View main code C# located in `Unity/Assets/Scripts/`
+View main code located in `Unity/Assets/Scripts/` with `.cs` file end created using C#.
 
 
 Download the `Roll.apk` file to play. (Only available on Android)
