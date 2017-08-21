@@ -1,5 +1,7 @@
 # Unity3D Roll Application
 
+Deployed on Google Playstore - https://play.google.com/store/apps/details?id=com.SegyApps.Roll
+
 View main code located in `Unity/Assets/Scripts/` with `.cs` file end created using C#.
 
 
